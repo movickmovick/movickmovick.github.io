@@ -12,8 +12,10 @@
 <img src="https://courses.edx.org/asset-v1:KyotoUx+002x+3T2017+type@thumbnail+block@unnamed-png-375x200.jpg?raw=true"/>
 
 ---
-[Wheelock's Latin](http://www.wheelockslatin.com/)
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Wheelock%27s_Latin_6th_Edition.jpg/220px-Wheelock%27s_Latin_6th_Edition.jpg?raw=true"/>
+
+
+[Brooklynns Pizzeria](/brooklynnspizzeria)
+<img src="https://brooklynnspizzeria.com/wp-content/uploads/2016/06/Brooklynns-Pizzeria-Logo.png?raw=true"/>
 
 ---
 
@@ -22,7 +24,3 @@
 
 ---
 
-[Brooklynns Pizzeria](/brooklynnspizzeria)
-<img src="https://brooklynnspizzeria.com/wp-content/uploads/2016/06/Brooklynns-Pizzeria-Logo.png?raw=true"/>
-
----
