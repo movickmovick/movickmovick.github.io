@@ -25,9 +25,14 @@ if (PhoneCall){
 
 ### 3. Side-Work
 
-<img src="images/side_work.jpg
-          ?raw=true"/>
-
+- Fill solo cups 
+- Clean all glass
+- Take a towel and don’t stop cleaning things.
+- Keep Drink Coolers Full
+- Bathroom Check it multiple times a night. 
+- Clean ALL dirty dishes with very hot water 
+- Wipe down ALL picnic tables.
+- 
 ### 4. Teamwork
 
 "...build your fundamentals, practice them over and over..." MJ
