@@ -1,8 +1,8 @@
-## startup
+## portfolio
 
 ---
 
-### setlist
+### Priorities
 
 [Being Human](https://byuisfreecourses.agilixbuzz.com/student/home/courses)
 <img src="https://api.agilixbuzz.com/Resz/~0.bUYagioCjj4K-ivC.QMojuwVPkbJV0H3DoWzXFWwNKTNKI-4BXs2jALnfvDc/130337640/thumbnail.png"/>
