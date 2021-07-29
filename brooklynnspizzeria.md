@@ -24,7 +24,8 @@ if (PhoneCall){
 
 ### 3. Side-Work
 
-<img src="images/side_work.png?raw=true"/>
+<img src="images/side_work.jpg
+          ?raw=true"/>
 
 ### 4. Teamwork
 
