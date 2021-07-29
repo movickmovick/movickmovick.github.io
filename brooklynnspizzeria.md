@@ -30,4 +30,4 @@ if (PhoneCall){
 
 ### 4. Teamwork
 
-"The only way to relieve that pressure is to build your fundamentals, practice them over and over, so when the game breaks down, you can handle anything that transpires." MJ
+"...build your fundamentals, practice them over and over..." MJ
