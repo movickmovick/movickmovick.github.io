@@ -32,7 +32,7 @@ if (PhoneCall){
 - Bathroom Check it multiple times a night. 
 - Clean ALL dirty dishes with very hot water 
 - Wipe down ALL picnic tables.
-- 
+
 ### 4. Teamwork
 
 "...build your fundamentals, practice them over and over..." MJ
