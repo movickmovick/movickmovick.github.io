@@ -6,7 +6,6 @@
 
 ### 1. In-Store Orders
 
-Explicabo. 
 
 ```javascript
 if (inStore){
