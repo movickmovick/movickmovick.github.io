@@ -1,7 +1,9 @@
 ## Brooklynn's Pizzeria
 
 **Goal:** make YOUR TASTEBUDS THANK YOU!!!!
+
 **Stance:** respect the craft.
+
 **Motto:** high-quality food and services that exceed each customer’s expectations.
 
 ### 1. In-Store Orders
