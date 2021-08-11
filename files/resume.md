@@ -8,24 +8,24 @@ mso-effects-glow-color:#A5A5A5;mso-effects-glow-themecolor:accent3;mso-effects-g
 40.0%;mso-effects-glow-colortransforms:satm=175000;mso-effects-glow-rad:18.0pt">Movick</span>**</span>**<span style="font-size:16.0pt;mso-bidi-font-size:
 11.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"></span>**
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">1325 Dream Island Plaza #30 Steamboat Springs, CO 80477 � <u><970.367.6017></u></span>
+<span style="font-family:&quot;Times New Roman&quot;,serif">1325 Dream Island Plaza #30 Steamboat Springs, CO 80477  <u><970.367.6017></u></span>
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">mov3152@aol.com� movickmovick.github.io</span>
+<span style="font-family:&quot;Times New Roman&quot;,serif">mov3152@aol.com - movickmovick.github.io</span>
 
 <span style="font-family:&quot;Times New Roman&quot;,serif"></span>
 
 <u><span style="font-family:&quot;Gadugi&quot;,sans-serif;mso-bidi-font-family:
-&quot;Times New Roman&quot;">Justin was a good man. (He) is happy, cheerful, follows good manners and is dedicated to work, family life and sports. Their long-term knowledge of market opportunities and support to customer service�.</span></u>
+&quot;Times New Roman&quot;">Justin was a good man. (He) is happy, cheerful, follows good manners and is dedicated to work, family life and sports. Their long-term knowledge of market opportunities and support to customer service.</span></u>
 
 _<span style="font-family:
 &quot;Times New Roman&quot;,serif"></span>_
 
 **<span style="font-family:Consolas;mso-bidi-font-family:&quot;Times New Roman&quot;">Experience</span>**
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">July 2021 � Present</span>
+<span style="font-family:&quot;Times New Roman&quot;,serif">July 2021  Present</span>
 
 <span style="font-family:&quot;MS Gothic&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">Sales</span><span style="font-family:&quot;Times New Roman&quot;,serif">,</span> **<span style="font-family:&quot;Copperplate Gothic Bold&quot;,sans-serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;">Brooklynn�s Pizzeria</span>**<span style="font-family:&quot;Times New Roman&quot;,serif"></span>
+mso-bidi-font-family:&quot;Times New Roman&quot;">Brooklynn's Pizzeria</span>**<span style="font-family:&quot;Times New Roman&quot;,serif"></span>
 
 _<span style="font-family:&quot;HoloLens MDL2 Assets&quot;,serif;mso-bidi-font-family:&quot;Times New Roman&quot;">Thank</span>__<span style="font-family:&quot;Cambria&quot;,serif;
 mso-bidi-font-family:&quot;Times New Roman&quot;">s customers for kitchen crews work;</span>__ <span style="font-family:&quot;HoloLens MDL2 Assets&quot;,serif;
@@ -33,7 +33,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot;">increase your sales by 50%, an
 mso-bidi-font-family:&quot;Times New Roman&quot;">cleaning</span> __<span style="font-family:&quot;Cambria&quot;,serif;
 mso-bidi-font-family:&quot;Times New Roman&quot;">and restock.</span>_
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">January 2021 � May 2021</span>
+<span style="font-family:&quot;Times New Roman&quot;,serif">January 2021 - May 2021</span>
 
 <span style="font-family:&quot;MS Gothic&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">Customer Assistant</span><span style="font-family:&quot;Times New Roman&quot;,serif">,</span> <span style="font-family:&quot;Copperplate Gothic Bold&quot;,sans-serif;mso-bidi-font-family:
 &quot;Times New Roman&quot;">McDonalds</span><span style="font-family:&quot;Times New Roman&quot;,serif"></span>
@@ -44,7 +44,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot;">Satisfies</span> __<span style
 mso-bidi-font-family:&quot;Times New Roman&quot;">customers through</span> __<span style="font-family:&quot;Cambria&quot;,serif;
 mso-bidi-font-family:&quot;Times New Roman&quot;">ethics, strategy, and spirit.</span>_
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">March 2020� May 2020</span>
+<span style="font-family:&quot;Times New Roman&quot;,serif">March 2020- May 2020</span>
 
 <span style="font-family:&quot;MS Gothic&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">Custodian</span><span style="font-family:&quot;Times New Roman&quot;,serif">,</span> <span style="font-family:
 &quot;Copperplate Gothic Bold&quot;,sans-serif;mso-bidi-font-family:&quot;Times New Roman&quot;">Barnes and Noble</span><span style="font-family:&quot;Times New Roman&quot;,serif"></span>
@@ -97,7 +97,7 @@ mso-bidi-font-family:&quot;Times New Roman&quot;">Strategy</span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
 Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
-mso-bidi-font-family:&quot;Times New Roman&quot;">Trust<span style="mso-tab-count:1">�</span></span>
+mso-bidi-font-family:&quot;Times New Roman&quot;">Trust<span style="mso-tab-count:1"></span></span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
 Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
