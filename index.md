@@ -20,6 +20,4 @@
 
 ---
 
-[resume](/files/resume.md)
 
----
