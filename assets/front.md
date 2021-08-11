@@ -2,10 +2,10 @@
 
 
 
-[pill bottle](/bottle.md)
+[pill bottle](/assets/bottle.md)
 
 ---
 
-[pill box](/box.md)
+[pill box](/assets/box.md)
 
 
