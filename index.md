@@ -14,6 +14,6 @@
 
 ---
 
-[resume](/files/resume.html)
+[resume](/files/resume.md)
 
 ---
