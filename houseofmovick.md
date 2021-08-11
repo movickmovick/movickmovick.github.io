@@ -1,6 +1,6 @@
 ## The House of Movick  
 
- ![](images/coatarms.jpg "")
+ ![](/images/coatarms.jpg)
 
 ---
 
