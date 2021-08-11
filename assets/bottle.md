@@ -7,4 +7,4 @@ Glenmark Pharmaceuticals Inc.
 Mahwah, NJ 07430
 (201)684-8000
 
-[return to assets](/assets/assets.md)
+[return to H.O.M.](/houseofmovick.md)
