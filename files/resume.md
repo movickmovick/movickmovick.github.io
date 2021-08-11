@@ -15,7 +15,7 @@ July 2021 - Present
 
 Sales, *Brooklynn's Pizzeria*
 
-Thanks customers for kitchen crews work; increase your sales by 50%, and help with chores likecleaning and restock.
+>Thanks customers for kitchen crews work; increase your sales by 50%, and help with chores likecleaning and restock.
 
 <span style="font-family:&quot;Times New Roman&quot;,serif">January 2021 - May 2021</span>
 
