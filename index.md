@@ -5,7 +5,7 @@
 ### (in order of importance)
 
 [Brooklynns Pizzeria](/brooklynnspizzeria)
-<img src="/images/pizzalogo.jpg?raw=true"/>
+<img src="/images/pizzalogo.png?raw=true"/>
 
 ---
 
