@@ -16,6 +16,6 @@
 
 ---
 
-[material assets](/assets)
+[material assets](/assets/assets.md)
 
 ---
