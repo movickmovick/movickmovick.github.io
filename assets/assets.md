@@ -1,11 +1,9 @@
 ## Material Assets
+**(associative)**
 
 Instead of relying on material things, I relied on material things, worked for myself, and suffered.
 
 ---
-
-### (associative)
-
 
 [everest backpack](/backpack)
 
