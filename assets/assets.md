@@ -5,15 +5,15 @@ Instead of relying on material things, I relied on material things, worked for m
 
 ---
 
-[everest backpack](/backpack)
+[everest backpack](/backpack.md)
 
 ---
 
-[s.i. duffle bag](/duffle)
+[s.i. duffle bag](/duffle.md)
 
 
 ---
 
-[terra fanny pack](/fanny)
+[terra fanny pack](/fanny.md)
 
 ---
