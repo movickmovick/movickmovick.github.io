@@ -1,37 +1,21 @@
-<div class="WordSection1">
 
-**<span style="font-size:16.0pt;mso-bidi-font-size:11.0pt;line-height:
-107%;font-family:&quot;Bookman Old Style&quot;,serif;mso-bidi-font-family:&quot;Times New Roman&quot;">Justin</span>**** <span style="font-size:16.0pt;mso-bidi-font-size:
-11.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"></span> **<span class="SpellE">**<span style="font-size:
-28.0pt;mso-bidi-font-size:11.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif;
-mso-effects-glow-color:#A5A5A5;mso-effects-glow-themecolor:accent3;mso-effects-glow-alpha:
-40.0%;mso-effects-glow-colortransforms:satm=175000;mso-effects-glow-rad:18.0pt">Movick</span>**</span>**<span style="font-size:16.0pt;mso-bidi-font-size:
-11.0pt;line-height:107%;font-family:&quot;Times New Roman&quot;,serif"></span>**
+# Justin Movick
+#### mov3152@aol.com - movickmovick.github.io
+ 1325 Dream Island Plaza #30 Steamboat Springs, CO 80477  <970.367.6017>
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">1325 Dream Island Plaza #30 Steamboat Springs, CO 80477  <u><970.367.6017></u></span>
+---
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">mov3152@aol.com - movickmovick.github.io</span>
 
-<span style="font-family:&quot;Times New Roman&quot;,serif"></span>
+Justin was a good man. (He) is happy, cheerful, follows good manners and is dedicated to work, family life and sports. Their long-term knowledge of market opportunities and support to customer service.
 
-<u><span style="font-family:&quot;Gadugi&quot;,sans-serif;mso-bidi-font-family:
-&quot;Times New Roman&quot;">Justin was a good man. (He) is happy, cheerful, follows good manners and is dedicated to work, family life and sports. Their long-term knowledge of market opportunities and support to customer service.</span></u>
 
-_<span style="font-family:
-&quot;Times New Roman&quot;,serif"></span>_
+### Experience
 
-**<span style="font-family:Consolas;mso-bidi-font-family:&quot;Times New Roman&quot;">Experience</span>**
+July 2021 - Present
 
-<span style="font-family:&quot;Times New Roman&quot;,serif">July 2021  Present</span>
+Sales, *Brooklynn's Pizzeria*
 
-<span style="font-family:&quot;MS Gothic&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;">Sales</span><span style="font-family:&quot;Times New Roman&quot;,serif">,</span> **<span style="font-family:&quot;Copperplate Gothic Bold&quot;,sans-serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;">Brooklynn's Pizzeria</span>**<span style="font-family:&quot;Times New Roman&quot;,serif"></span>
-
-_<span style="font-family:&quot;HoloLens MDL2 Assets&quot;,serif;mso-bidi-font-family:&quot;Times New Roman&quot;">Thank</span>__<span style="font-family:&quot;Cambria&quot;,serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;">s customers for kitchen crews work;</span>__ <span style="font-family:&quot;HoloLens MDL2 Assets&quot;,serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;">increase your sales by 50%, and help with chores</span> __<span style="font-family:&quot;Cambria&quot;,serif;mso-bidi-font-family:&quot;Times New Roman&quot;">like</span>__ <span style="font-family:&quot;HoloLens MDL2 Assets&quot;,serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;">cleaning</span> __<span style="font-family:&quot;Cambria&quot;,serif;
-mso-bidi-font-family:&quot;Times New Roman&quot;">and restock.</span>_
+Thanks customers for kitchen crews work; increase your sales by 50%, and help with chores likecleaning and restock.
 
 <span style="font-family:&quot;Times New Roman&quot;,serif">January 2021 - May 2021</span>
 
