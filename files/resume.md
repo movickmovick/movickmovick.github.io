@@ -88,27 +88,27 @@ EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">
 <div class="WordSection2">
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
+Symbol"><span style="mso-list:Ignore">💯<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
 mso-bidi-font-family:&quot;Times New Roman&quot;">Risk</span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
+Symbol"><span style="mso-list:Ignore">💯<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
 mso-bidi-font-family:&quot;Times New Roman&quot;">Strategy</span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
+Symbol"><span style="mso-list:Ignore">💯<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
 mso-bidi-font-family:&quot;Times New Roman&quot;">Trust<span style="mso-tab-count:1"></span></span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
+Symbol"><span style="mso-list:Ignore">💯<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
 mso-bidi-font-family:&quot;Times New Roman&quot;">Potential</span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
+Symbol"><span style="mso-list:Ignore">💯<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
 mso-bidi-font-family:&quot;Times New Roman&quot;">Leadership</span>
 
 <span style="font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
-Symbol"><span style="mso-list:Ignore">�<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
+Symbol"><span style="mso-list:Ignore">💯<span style="font:7.0pt &quot;Times New Roman&quot;"></span> </span></span><span style="font-family:&quot;Comic Sans MS&quot;;
 mso-bidi-font-family:&quot;Times New Roman&quot;">Initiative</span>
 
 </div>
