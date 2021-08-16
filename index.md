@@ -10,8 +10,7 @@
 
 ---
 
-[Brooklynns Pizzeria](/brooklynnspizzeria)
-<img src="/images/pizzalogo.png?raw=true"/>
+[Work](/work)
 
 ---
 
