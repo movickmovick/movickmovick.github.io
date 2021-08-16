@@ -6,7 +6,6 @@
 
 
 [House of Movick](/houseofmovick)
-<img src="/images/coatarms.jpg?raw=true"/>
 
 ---
 
@@ -15,7 +14,7 @@
 ---
 
 [Jujitsu SSBJJ](https://www.steamboatbjj.com/)
-<img src="/images/ssbjj.jpg?raw=true"/>
+
 
 ---
 
