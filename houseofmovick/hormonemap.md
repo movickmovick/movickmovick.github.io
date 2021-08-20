@@ -52,6 +52,31 @@ name ocytocin
 shape rectangle
 color green
 outputs insulin insuling_receptor
-intputs none
+inputs none
 description "the feel good hormone"
 class "G-protein-coupled receptor"
+
+name insulin
+shape rectangle
+color green
+outputs insulin_receptor,  insulin_receptor(1), Testosterone, Glucose, HGH, 
+inputs PP, GIP, Oxytocin, GLP-1, HGH
+description "pancreas production
+class 
+
+name Glucose-dependent insulinotropic polypeptide (GIP)
+shape rectangle
+color blue
+outputs Insulin, Glucogen
+inputs none
+description "K-cell and large intestine secretion"
+class polypeptide
+
+
+name GLP-1
+shape rectangle
+color green
+outputs Insulin, Glucagon
+inputs Acetate3, Propiate
+description "L-cell secretion"
+class peptide
