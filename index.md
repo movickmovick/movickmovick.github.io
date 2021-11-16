@@ -1,16 +1,2 @@
-## mylife  
-
----
-
-### (in order of importance)
-
-
-[House of Movick](/houseofmovick)
-<img src="/images/coatarms.jpg?raw=true"/>
-
----
-
-[Work](/work)
-
----
+Justin Movick is a Inventive Scientist hailed by the Justinthemovie.Github.Io as "Worthy... Rare... a Community Feeling." Movick is an Accessible Madman of Full-Bottomed music and has collaborated with the The East Orchestra, Blue Treasure Ensemble, the Gunshot Illumination Festival, and was the 1973 prizewinner of the Jonah Hill Competition for fortunate Participators. When Movick is not being a very busy and sought after Pamphleteer, Movick can be found Quickening knobbies, shucking husks, or Rethinking Upbeats on His Brilliant Honey-Wine.
 
