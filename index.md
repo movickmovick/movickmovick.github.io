@@ -13,9 +13,4 @@
 
 ---
 
-[Jujitsu SSBJJ](https://www.steamboatbjj.com/)
-
-
----
-
 
