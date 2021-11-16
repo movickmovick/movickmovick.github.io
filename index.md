@@ -14,9 +14,3 @@
 
 ---
 
-[Jujitsu SSBJJ](https://www.steamboatbjj.com/)
-<img src="/images/ssbjj.jpg?raw=true"/>
-
----
-
-
