@@ -1,5 +1,8 @@
-# Justin is a stable teenager who is obsessed with being painted blue
+# [Justin is a stable teenager who is obsessed with being painted blue](https://www.movickmovick.github.io/script)
 
 
-Justin Movick is a Inventive Scientist hailed by the Justinthemovie.Github.Io as "Worthy... Rare... a Community Feeling." Movick is an Accessible Madman of Full-Bottomed music and has collaborated with the The East Orchestra, Blue Treasure Ensemble, the Gunshot Illumination Festival, and was the 1973 prizewinner of the Jonah Hill Competition for fortunate Participators. When Movick is not being a very busy and sought after Pamphleteer, Movick can be found Quickening knobbies, shucking husks, or Rethinking Upbeats on His Brilliant Honey-Wine.
+Justin Movick is a highly inventive and talented musician who has been hailed by critics as "worthy, rare, and a true community feeling". Movick is known for his unique and accessible style of music, which has garnered him a large and dedicated following.
 
+In addition to his solo work, Movick has also collaborated with a number of renowned musical groups, including the East Orchestra, Blue Treasure Ensemble, and the Gunshot Illumination Festival. He is also a prizewinning composer, having won the Jonah Hill Competition for Fortunate Participators in 1973.
+
+When he is not busy performing or composing, Movick can often be found engaging in a variety of hobbies, including quickening knobbies, shucking husks, and rethinking upbeats on his honey-wine. Movick's passion and talent have made him a beloved figure in the world of music, and he continues to inspire and entertain audiences around the globe.
