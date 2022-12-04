@@ -1,4 +1,4 @@
-# [Justin is a stable teenager who is obsessed with being painted blue](https://www.movickmovick.github.io/script)
+# [Justin is a stable teenager who is obsessed with being painted blue](https://www.movickmovick.github.io/script.md)
 
 
 Justin Movick is a highly inventive and talented musician who has been hailed by critics as "worthy, rare, and a true community feeling". Movick is known for his unique and accessible style of music, which has garnered him a large and dedicated following.
