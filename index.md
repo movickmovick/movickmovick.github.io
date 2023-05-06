@@ -1,16 +1,16 @@
 # Welcome to MovickMovick.github.io
 
-Thank you for visiting our website. Here you will find a variety of interesting and informative content, including articles, videos, and podcasts.
+**Fire Building:** 
+If you have experience building fires by hand, your knowledge and skills would be greatly appreciated! As someone living in Hillsboro, you know that the city is situated in the Tualatin Valley on the west side of the Portland metropolitan area. Hillsboro is also known as the Silicon Forest, as it hosts many high-technology companies such as Intel. With your help, we can learn this valuable survival skill and be prepared for any situation.
 
-To learn more about who we are and what we do, please visit our [About](https://movickmovick.github.io/about.md) page.
+**Weekly Laundry:**
+As a resident of Hillsboro, you know how important it is to have clean clothes. I am in need of access to laundry machines and am willing to work for one hour each week in exchange. This can include tasks such as washing cars, powerwashing patios/driveways, cooking meals, deep cleaning bathrooms, or taking inventory of storage items. I am also open to exchanging these services for payment. Let's work together to help each other out!
 
-To view our latest articles and videos, please visit our [Blog](https://movickmovick.github.io/blog.md) page.
+**Dinner Service:**
+As someone who considers members of the Hillsboro community friends, I would love to be hosted for dinner once every two weeks. You know that Hillsboro is the county seat of Washington County and is home to many high-technology companies such as Intel. Let's come together to share a meal and build community in this vibrant city.
 
-To listen to our latest podcasts, please visit our [Podcast](https://movickmovick.github.io/podcast.md) page.
+**Tea Time:**
+Are you looking for a new friend or guest for tea? As a resident of Hillsboro, I would love to join you for mid-day tea – whether it's herbal, black, green, or any other variety. It doesn't matter your age or background – let's connect over a warm cup of tea and build meaningful relationships in our community.
 
-To contact us, please visit our [Contact](https://movickmovick.github.io/contact.md) page.
 
-We hope you enjoy your visit and look forward to connecting with you.
-
-Best,
-MovickMovick.github.io
+contact justin via resilientpathwaysbusiness@gmail.com
