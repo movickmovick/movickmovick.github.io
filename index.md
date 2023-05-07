@@ -1,4 +1,4 @@
-# Welcome to MovickMovick.github.io
+# This is an attempt to affirm action
 
 **Fire Building:** 
 If you have experience building fires by hand, your knowledge and skills would be greatly appreciated! As someone living in Hillsboro, you know that the city is situated in the Tualatin Valley on the west side of the Portland metropolitan area. Hillsboro is also known as the Silicon Forest, as it hosts many high-technology companies such as Intel. With your help, we can learn this valuable survival skill and be prepared for any situation.
